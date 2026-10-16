@@ -1,0 +1,295 @@
+{
+  "adoption": [
+    {
+      "season": 2020,
+      "n": 33,
+      "avg_knee_down_pct": 22.2,
+      "wavg_knee_down_pct": 23.7,
+      "near_universal_60pct": 4
+    },
+    {
+      "season": 2021,
+      "n": 59,
+      "avg_knee_down_pct": 50.4,
+      "wavg_knee_down_pct": 50.5,
+      "near_universal_60pct": 23
+    },
+    {
+      "season": 2022,
+      "n": 61,
+      "avg_knee_down_pct": 58.7,
+      "wavg_knee_down_pct": 59.0,
+      "near_universal_60pct": 32
+    },
+    {
+      "season": 2023,
+      "n": 63,
+      "avg_knee_down_pct": 79.4,
+      "wavg_knee_down_pct": 79.8,
+      "near_universal_60pct": 49
+    },
+    {
+      "season": 2024,
+      "n": 58,
+      "avg_knee_down_pct": 88.9,
+      "wavg_knee_down_pct": 89.6,
+      "near_universal_60pct": 54
+    },
+    {
+      "season": 2025,
+      "n": 57,
+      "avg_knee_down_pct": 95.4,
+      "wavg_knee_down_pct": 95.3,
+      "near_universal_60pct": 56
+    }
+  ],
+  "stance_called_strike": {
+    "n": 328,
+    "one_knee_calledstr_pct": 47.27,
+    "other_calledstr_pct": 45.03,
+    "delta_pct_points": 2.25
+  },
+  "aggregate_framing_rv_by_stance": {
+    "n_catcher_seasons": 331,
+    "one_knee_framing_rv_total": 244.4,
+    "other_framing_rv_total": -168.4,
+    "note": "League-wide, knee-down accounts for the large majority of framing value because it has become the dominant receiving stance."
+  },
+  "framing_rv_per_1000": {
+    "one_knee_mean": 0.056,
+    "other_mean": -0.051,
+    "note": "Mean framing runs per 1000 received pitches, by stance. A positive gap = knee-down frames more effectively per pitch."
+  },
+  "top_framing_seasons": [
+    {
+      "season": 2025,
+      "name": "Bailey, Patrick",
+      "rv_tot": 25.05,
+      "pitches": 8913.0
+    },
+    {
+      "season": 2019,
+      "name": "Hedges, Austin",
+      "rv_tot": 22.62,
+      "pitches": 7094.0
+    },
+    {
+      "season": 2024,
+      "name": "Bailey, Patrick",
+      "rv_tot": 22.43,
+      "pitches": 8127.0
+    },
+    {
+      "season": 2022,
+      "name": "Trevino, Jose",
+      "rv_tot": 18.79,
+      "pitches": 6852.0
+    },
+    {
+      "season": 2023,
+      "name": "Bailey, Patrick",
+      "rv_tot": 16.96,
+      "pitches": 6295.0
+    },
+    {
+      "season": 2025,
+      "name": "Kirk, Alejandro",
+      "rv_tot": 16.66,
+      "pitches": 8499.0
+    },
+    {
+      "season": 2019,
+      "name": "Grandal, Yasmani",
+      "rv_tot": 16.03,
+      "pitches": 9798.0
+    },
+    {
+      "season": 2018,
+      "name": "Mathis, Jeff",
+      "rv_tot": 15.76,
+      "pitches": 4587.0
+    },
+    {
+      "season": 2022,
+      "name": "Heim, Jonah",
+      "rv_tot": 15.56,
+      "pitches": 7759.0
+    },
+    {
+      "season": 2018,
+      "name": "Grandal, Yasmani",
+      "rv_tot": 14.79,
+      "pitches": 8441.0
+    },
+    {
+      "season": 2023,
+      "name": "Hedges, Austin",
+      "rv_tot": 14.48,
+      "pitches": 5134.0
+    },
+    {
+      "season": 2023,
+      "name": "Alvarez, Francisco",
+      "rv_tot": 13.95,
+      "pitches": 8053.0
+    },
+    {
+      "season": 2019,
+      "name": "Flowers, Tyler",
+      "rv_tot": 13.87,
+      "pitches": 6194.0
+    },
+    {
+      "season": 2019,
+      "name": "V\u00e1zquez, Christian",
+      "rv_tot": 13.4,
+      "pitches": 8829.0
+    },
+    {
+      "season": 2021,
+      "name": "Trevino, Jose",
+      "rv_tot": 13.18,
+      "pitches": 6351.0
+    }
+  ],
+  "bottom_framing_seasons": [
+    {
+      "season": 2018,
+      "name": "Chirinos, Robinson",
+      "rv_tot": -12.62
+    },
+    {
+      "season": 2021,
+      "name": "Collins, Zack",
+      "rv_tot": -12.63
+    },
+    {
+      "season": 2023,
+      "name": "D\u00edaz, Elias",
+      "rv_tot": -12.77
+    },
+    {
+      "season": 2025,
+      "name": "Quero, Edgar",
+      "rv_tot": -12.9
+    },
+    {
+      "season": 2023,
+      "name": "Realmuto, J.T.",
+      "rv_tot": -14.43
+    },
+    {
+      "season": 2021,
+      "name": "Perez, Salvador",
+      "rv_tot": -14.63
+    },
+    {
+      "season": 2022,
+      "name": "Chirinos, Robinson",
+      "rv_tot": -15.07
+    },
+    {
+      "season": 2023,
+      "name": "Maldonado, Mart\u00edn",
+      "rv_tot": -15.66
+    },
+    {
+      "season": 2022,
+      "name": "Melendez, MJ",
+      "rv_tot": -16.02
+    },
+    {
+      "season": 2018,
+      "name": "Barnhart, Tucker",
+      "rv_tot": -17.19
+    }
+  ],
+  "career_framing_leaders": [
+    {
+      "name": "Hedges, Austin",
+      "rv_tot": 72.1,
+      "seasons": 8
+    },
+    {
+      "name": "Bailey, Patrick",
+      "rv_tot": 64.45,
+      "seasons": 3
+    },
+    {
+      "name": "Grandal, Yasmani",
+      "rv_tot": 60.08,
+      "seasons": 7
+    },
+    {
+      "name": "Trevino, Jose",
+      "rv_tot": 51.45,
+      "seasons": 7
+    },
+    {
+      "name": "V\u00e1zquez, Christian",
+      "rv_tot": 45.91,
+      "seasons": 8
+    },
+    {
+      "name": "Kirk, Alejandro",
+      "rv_tot": 41.21,
+      "seasons": 5
+    },
+    {
+      "name": "Raleigh, Cal",
+      "rv_tot": 39.67,
+      "seasons": 5
+    },
+    {
+      "name": "Heim, Jonah",
+      "rv_tot": 38.7,
+      "seasons": 5
+    },
+    {
+      "name": "Stassi, Max",
+      "rv_tot": 31.27,
+      "seasons": 5
+    },
+    {
+      "name": "Flowers, Tyler",
+      "rv_tot": 27.2,
+      "seasons": 3
+    },
+    {
+      "name": "Barnes, Austin",
+      "rv_tot": 26.84,
+      "seasons": 7
+    },
+    {
+      "name": "Wells, Austin",
+      "rv_tot": 22.6,
+      "seasons": 2
+    },
+    {
+      "name": "P\u00e9rez, Roberto",
+      "rv_tot": 21.04,
+      "seasons": 4
+    },
+    {
+      "name": "Higashioka, Kyle",
+      "rv_tot": 20.05,
+      "seasons": 5
+    },
+    {
+      "name": "Nido, Tom\u00e1s",
+      "rv_tot": 19.06,
+      "seasons": 4
+    }
+  ],
+  "knee_down_vs_framing_rv_corr": {
+    "n": 331,
+    "pearson_r": 0.0518,
+    "note": "Correlation between a catcher's knee-down rate and their knee-down framing run value, catcher-season level. Interpret carefully: the causal driver is receiving skill, not stance rate alone."
+  },
+  "conversions": {
+    "framing_runs_per_strike": 0.125,
+    "runs_per_win_approx": 10,
+    "wins_per_framing_run": 0.1,
+    "note": "Contextual conversions (public industry figures), used to translate framing runs into equivalent wins/value. Not scraped \u2014 cited as context."
+  }
+}
